@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983806759379",
+    "project_id": "waliprojectmanager",
+    "storage_bucket": "waliprojectmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983806759379:android:7908ddbee19e7f238f1f26",
+        "android_client_info": {
+          "package_name": "bgtap.babbangona.waliprojectmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983806759379-tpmljmejc5n9ga2oei4mpnq1o8ft60hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp7iyGhHilN2PUvdeUS_GTEWMPLEZNkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983806759379-tpmljmejc5n9ga2oei4mpnq1o8ft60hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
